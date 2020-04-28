@@ -1,7 +1,7 @@
 Which factors correlate the most with the price of a house?
 Through the KC housing prices data set provided, we are able to find out whether or not the variables such as the number of bedrooms and bathrooms etc, correlate with and affect the price of a house, negatively or positively. 
 Through data cleaning and using my own best judgement I was able to fill or drop missing values from the data set. This allowed me to then normalize the data which puts all of the variables on the same field so that the machine can run the regression. 
-After going through the data and running train/test models, I have determined that every variable effects the housing price in a positive way.
+After going through the data and running train/test models, I have determined that every variable effects the housing price in a positive way and I can predict the price of a house with 77% accuracy.
 
 # Column Names and descriptions for Kings County Data Set
 * **id** - unique identified for a house
